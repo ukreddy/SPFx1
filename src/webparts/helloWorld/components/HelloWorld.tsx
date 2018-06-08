@@ -15,7 +15,7 @@ export default class HelloWorld extends React.Component<IHelloWorldProps, {}> {
               <p className={ styles.description }>{escape(this.props.description)}</p>
               <a href="https://aka.ms/spfx" className={ styles.button }>
                 <span className={ styles.label }>Learn more for testing</span>
-                <p> This is awesome </p>
+                <p> This is awesome.. after check out.... </p>
               </a>
             </div>
           </div>
